@@ -168,20 +168,20 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Networking
 
-- [GitHub - manio143/Stride.Networking.Simple: A simple async event based lib for Stride with NetworkScript class for easy usage](https://github.com/manio143/Stride.Networking.Simple)
+- [Stride.Networking.Simple: A simple async event based lib for Stride](https://github.com/manio143/Stride.Networking.Simple)
   
-- [GitHub - jiowchern/Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote)
+- [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote)
   
-- [GitHub - defraswiew/GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore)
+- [GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore)
   
 
 ## Alternative UI Plugins
 
-- [GitHub - rds1983/Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra)
+- [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra)
   
-- [GitHub - TheKeyblader/Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia)
+- [Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia)
   
-- [GitHub - Eideren/StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug)
+- [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug)
   
 
 ## Misc

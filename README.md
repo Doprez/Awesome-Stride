@@ -113,7 +113,6 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Demos
 
-  
 - Youtube
 
   - [Stride Engine FPS Controller](https://www.youtube.com/watch?v=lrHfwvC9ARA)
@@ -159,12 +158,12 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Visual Programming
 
-- [VL: Stride 3D Engine Update #4](https://visualprogramming.net/)
+- [vvvv uses Stride for 3d rendering](https://visualprogramming.net/)
   
 
 ## Terrain
 
-- [GitHub - johang88/TR.Stride: Various stride utilities / projects (stride3d.net)](https://github.com/johang88/TR.Stride)
+- [TR.Stride: Various stride environment utilities](https://github.com/johang88/TR.Stride)
   
 
 ## Networking

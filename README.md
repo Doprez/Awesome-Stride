@@ -107,6 +107,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/)
   
 - [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
+
 - [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature)
   
 
@@ -145,20 +146,20 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Shaders
 
-- [GitHub - tebjan/Stride.ShaderExplorer: A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy](https://github.com/tebjan/Stride.ShaderExplorer)
+- [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer)
   
-- [GitHub - ykafia/Stride-Awesome-Shaders: Just a repository for cool shaders usable in stride](https://github.com/ykafia/Stride-Awesome-Shaders)
+- [Stride-Awesome-Shaders: Just a repository for cool shaders usable in stride](https://github.com/ykafia/Stride-Awesome-Shaders)
   
-- [GitHub - ykafia/UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
+- [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
   
-- [GitHub - herocrab/StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
+- [StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
   
-- [GitHub - jeske/StrideWireframeShader: single pass wireframe shader for stride / xenko](https://github.com/jeske/StrideWireframeShader)
+- [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
   
 
 ## Visual Programming
 
-- [VL: Stride 3D Engine Update #4](https://visualprogramming.net/blog/2021/vl-stride-3d-engine-update-4/)
+- [VL: Stride 3D Engine Update #4](https://visualprogramming.net/)
   
 
 ## Terrain

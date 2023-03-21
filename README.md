@@ -87,17 +87,17 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Code blobs
 
-[Easy gists search](https://gist.github.com/search?l=c%23&q=stride)
+[Stride C# gists search](https://gist.github.com/search?l=c%23&q=stride)
 
-- [Look at · GitHub](https://gist.github.com/ykafia/9579569c26e2724f1a35afab0449b72a)
+- [Look at script](https://gist.github.com/ykafia/9579569c26e2724f1a35afab0449b72a)
   
-- [CameraFollow.cs · GitHub](https://gist.github.com/ykafia/371b310de1ba7bb8ab3d2feffce2a190)
+- [CameraFollow.cs](https://gist.github.com/ykafia/371b310de1ba7bb8ab3d2feffce2a190)
   
-- [Stride controller UI navigation · GitHub](https://gist.github.com/Aggror/4ba0632bd934103c6dcdb077a84376ef)
+- [Stride controller UI navigation](https://gist.github.com/Aggror/4ba0632bd934103c6dcdb077a84376ef)
   
-- [A small class to export/save a scene or a group of entities within a running stride game · GitHub](https://gist.github.com/Eideren/0aa59644eb7c5b029d04b7fa5a285e62)
+- [Export/save a scene or a group of entities within a running stride game](https://gist.github.com/Eideren/0aa59644eb7c5b029d04b7fa5a285e62)
   
-- [Stride 3D rendered into Avalonia · GitHub](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+- [Stride 3D rendered into Avalonia](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
   
 
 ## Engine Documentation

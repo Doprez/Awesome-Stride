@@ -112,23 +112,22 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Demos
 
-- Videos
   
-  - Youtube
-  
-    - [Stride Engine FPS Controller](https://www.youtube.com/watch?v=lrHfwvC9ARA)
-    
-    - [Rescue Drone - August 2015](https://www.youtube.com/watch?v=wOZ-s7Q4qWY)
-    
-    - [Xenko Game Engine: How The Makers Of Bravely Default Want To Help Develop Better VR Games](https://www.youtube.com/watch?v=1hgh7R38yK8)
-    
-    - [Xenko Procedural Terrain Generation &amp; Water tests](https://www.youtube.com/watch?v=ba_Tpz4ojHk)
-    
-    - [Xenko 1.8 - Cel Shading](https://www.youtube.com/watch?v=RJDrG1QR3Uo)
+- Youtube
 
-  - Twitter
-    
-    - [Networking from Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
+  - [Stride Engine FPS Controller](https://www.youtube.com/watch?v=lrHfwvC9ARA)
+  
+  - [Rescue Drone - August 2015](https://www.youtube.com/watch?v=wOZ-s7Q4qWY)
+  
+  - [Xenko Game Engine: How The Makers Of Bravely Default Want To Help Develop Better VR Games](https://www.youtube.com/watch?v=1hgh7R38yK8)
+  
+  - [Xenko Procedural Terrain Generation &amp; Water tests](https://www.youtube.com/watch?v=ba_Tpz4ojHk)
+  
+  - [Xenko 1.8 - Cel Shading](https://www.youtube.com/watch?v=RJDrG1QR3Uo)
+
+- Twitter
+  
+  - [Networking from Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
     
 
 ## AI

@@ -1,6 +1,6 @@
-# Awesome Stride
-
+# Awesome Stride 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 Stride is a Completely open source, MIT licensed Game engine build from the ground up in C#.
 

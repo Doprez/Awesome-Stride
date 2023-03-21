@@ -56,6 +56,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Custom UI example using MyraUI ](https://github.com/Doprez/stride-ui-alternate-example)
 
 - [Fog Of War](https://github.com/herocrab/StrideFogOfWarPlus)
+
+- [Super Character Controller](https://github.com/corthax/SuperCharacterController)
   
 
 ## Tutorials

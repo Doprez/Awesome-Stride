@@ -35,23 +35,25 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Example Projects
 
-- [GitHub - spasarto/Stride3dSplitScreen](https://github.com/spasarto/Stride3dSplitScreen)
+- [Splitscreen example](https://github.com/spasarto/Stride3dSplitScreen)
   
-- [GitHub - jeske/LoadObjTest: A Stride3d sample which loads a Wavefront OBJ file at runtime](https://github.com/jeske/LoadObjTest)
+- [Stride3d sample which loads a Wavefront OBJ file at runtime](https://github.com/jeske/LoadObjTest)
   
-- [GitHub - VirtualBrightPlayz/AutoImportStride: A script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
+- [script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
   
-- [GitHub - VaclavElias/Stride3DTutorials: Stride3D tutorials and examples in .NET 5 using C# 9.0 or .NET 6 using C# 10.](https://github.com/VaclavElias/Stride3DTutorials)
+- [Stride3D tutorials and examples in .NET 5 using C# 9.0 or .NET 6 using C# 10.](https://github.com/VaclavElias/Stride3DTutorials)
   
-- [GitHub - najak3d/Stride3D_Demos: Demos for Stride3D Game Engine - with focus on Code-Only approach](https://github.com/najak3d/Stride3D_Demos)
+- [Demos for Stride3D Game Engine - with focus on Code-Only approach](https://github.com/najak3d/Stride3D_Demos)
   
-- [GitHub - Redhacker1/Q3MovementStride: A port of WiggleWizard&#39;s Q3 movement script for unity to Stride3D(Formerly Xenko)](https://github.com/Redhacker1/Q3MovementStride)
+- [port of WiggleWizard&#39;s Q3 movement script for unity to Stride3D(Formerly Xenko)](https://github.com/Redhacker1/Q3MovementStride)
   
-- [GitHub - VaclavElias/stride-code-only: Stride Game Engine Extension for code only approach, running Stride application without Game Editor.](https://github.com/VaclavElias/stride-code-only)
+- [Stride Game Engine Extension for code only approach, running Stride application without Game Editor.](https://github.com/VaclavElias/stride-code-only)
   
-- [GitHub - manio143/StrideCustomAsset: An example how to create a custom asset for Stride game engine](https://github.com/manio143/StrideCustomAsset)
+- [Example how to create a custom asset](https://github.com/manio143/StrideCustomAsset)
   
-- [GitHub - SoulRider/StrideOutlineRenderer: Stride Outline Renderer - Renderer for Rendering 3D Object (Model Component) Outlines](https://github.com/SoulRider/StrideOutlineRenderer)
+- [Stride Outline Renderer - Renderer for Rendering 3D Object (Model Component) Outlines](https://github.com/SoulRider/StrideOutlineRenderer)
+
+- [Custom UI example using MyraUI ](https://github.com/Doprez/stride-ui-alternate-example)
   
 
 ## Tutorials
@@ -100,11 +102,12 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Engine Documentation
 
-- [Stride Editor current design document · GitHub](https://gist.github.com/manio143/b6666eedb1403deb5525961697d0c25d)
+- [Stride Editor current design document](https://gist.github.com/manio143/b6666eedb1403deb5525961697d0c25d)
   
-- [stride-docs/shader-stages.md at master · stride3d/stride-docs · GitHub](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/)
+- [stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/)
   
-  [GitHub - manio143/StrideComponentsEditorAvalonia: Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
+- [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
+- [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature)
   
 
 ## Demos

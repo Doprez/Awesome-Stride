@@ -19,7 +19,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   
 - Repositories
   
-  - [Svelto ECS mini examples]([GitHub - sebas77/Svelto.MiniExamples: Svelto.ECS and Svelto.Tasks Mini Examples for Unity](https://github.com/sebas77/Svelto.MiniExamples))
+  - [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples)
     
 
 ## Game Examples

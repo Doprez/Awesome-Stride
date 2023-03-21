@@ -60,29 +60,29 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 - [Stride - YouTube](https://www.youtube.com/c/Stride3d)
   
-  - [Stride tutorial | C# beginner #1 | Introduction - YouTube](https://www.youtube.com/watch?v=Z2kUQhSmdr0&list=PLRZx2y7uC8mNySUMfOQf-TLNVnnHkLfPi)
+  - [Stride Beginner Tutorials](https://www.youtube.com/watch?v=Z2kUQhSmdr0&list=PLRZx2y7uC8mNySUMfOQf-TLNVnnHkLfPi)
     
-  - [Stride tutorials | Introduction to intermediate C# tutorials - YouTube](https://www.youtube.com/watch?v=-IXw64hZAqg&list=PLRZx2y7uC8mOE6_L0ZiFxNBE7HmzU2dP7)
+  - [Stride Intermediate Tutorials](https://www.youtube.com/watch?v=-IXw64hZAqg&list=PLRZx2y7uC8mOE6_L0ZiFxNBE7HmzU2dP7)
     
 - [Old Stride tutorials from gamefromscratch](https://www.youtube.com/watch?v=hmPrUuQQz8M&list=PLS9MbmO_ssyBLHw7rZeGmriUkRaxBp7LL)
   
-- [Howto setup Real Time Voxel Global Illumination in Stride3D 4.0.0.1 beta2 - YouTube](https://www.youtube.com/watch?v=NEMZ_HJzJ7w&t=1s)
+- [How To setup Real Time Voxel Global Illumination](https://www.youtube.com/watch?v=NEMZ_HJzJ7w&t=1s)
   
-- [Basic Platformer Movement Tutorial - Stride - YouTube](https://www.youtube.com/watch?v=eTMT5up1AlY&t=2s)
+- [Basic Platformer Movement Tutorial](https://www.youtube.com/watch?v=eTMT5up1AlY&t=2s)
   
 - [Marian Dziubiak - YouTube](https://www.youtube.com/@manio1432/videos)
   
-  - [Stride Ragdoll Tutorial (beta) - YouTube](https://youtu.be/n8yAV8OSbes)
+  - [Stride Ragdoll Tutorial (beta)](https://youtu.be/n8yAV8OSbes)
     
-  - [Bullet physics constraints in Stride - YouTube](https://www.youtube.com/watch?v=uMZMYpMD3Wg&t=1s)
+  - [Bullet physics constraints in Stride](https://www.youtube.com/watch?v=uMZMYpMD3Wg&t=1s)
     
-  - [Stride Clean UI tutorial step by step - YouTube](https://www.youtube.com/watch?v=cazIR97VPcg)
+  - [Stride Clean UI tutorial step by step](https://www.youtube.com/watch?v=cazIR97VPcg)
     
-  - [How to use locally built Stride Engine to debug your game - YouTube](https://www.youtube.com/watch?v=bXSC9o-EaR8)
+  - [How to use locally built Stride Engine to debug your game](https://www.youtube.com/watch?v=bXSC9o-EaR8)
     
-  - [How to create custom configuration in Stride - YouTube](https://www.youtube.com/watch?v=QKizq1xC4vk)
+  - [How to create custom configuration in Stride](https://www.youtube.com/watch?v=QKizq1xC4vk)
     
-- [Jorn Theunissen - YouTube This person created the Stride tutorials](https://www.youtube.com/@Jorntheunissen/videos)
+- [Jorn Theunissen - This person created the Stride tutorials](https://www.youtube.com/@Jorntheunissen/videos)
   
 
 ## Code blobs

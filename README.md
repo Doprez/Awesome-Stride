@@ -37,21 +37,21 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 - [Splitscreen example](https://github.com/spasarto/Stride3dSplitScreen)
   
-- [Stride3d sample which loads a Wavefront OBJ file at runtime](https://github.com/jeske/LoadObjTest)
+- [Loading a Wavefront OBJ file at runtime](https://github.com/jeske/LoadObjTest)
   
-- [script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
+- [Import files into Stride3D](https://github.com/VirtualBrightPlayz/AutoImportStride)
   
-- [Stride3D tutorials and examples in .NET 5 using C# 9.0 or .NET 6 using C# 10.](https://github.com/VaclavElias/Stride3DTutorials)
+- [Stride3D examples in .NET 5 using C# 9.0 or .NET 6 using C# 10](https://github.com/VaclavElias/Stride3DTutorials)
   
-- [Demos for Stride3D Game Engine - with focus on Code-Only approach](https://github.com/najak3d/Stride3D_Demos)
+- [Demos with a focus on Code-Only approach](https://github.com/najak3d/Stride3D_Demos)
   
-- [port of WiggleWizard&#39;s Q3 movement script for unity to Stride3D(Formerly Xenko)](https://github.com/Redhacker1/Q3MovementStride)
+- [Quake 3 movement for Stride3D](https://github.com/Redhacker1/Q3MovementStride)
   
-- [Stride Game Engine Extension for code only approach, running Stride application without Game Editor.](https://github.com/VaclavElias/stride-code-only)
+- [Stride Game Engine Extension for code only approach](https://github.com/VaclavElias/stride-code-only)
   
-- [Example how to create a custom asset](https://github.com/manio143/StrideCustomAsset)
+- [Create a custom data asset](https://github.com/manio143/StrideCustomAsset)
   
-- [Stride Outline Renderer - Renderer for Rendering 3D Object (Model Component) Outlines](https://github.com/SoulRider/StrideOutlineRenderer)
+- [Stride Outline Renderer](https://github.com/SoulRider/StrideOutlineRenderer)
 
 - [Custom UI example using MyraUI ](https://github.com/Doprez/stride-ui-alternate-example)
   

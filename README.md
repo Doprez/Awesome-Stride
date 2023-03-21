@@ -54,6 +54,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stride Outline Renderer](https://github.com/SoulRider/StrideOutlineRenderer)
 
 - [Custom UI example using MyraUI ](https://github.com/Doprez/stride-ui-alternate-example)
+
+- [Fog Of War](https://github.com/herocrab/StrideFogOfWarPlus)
   
 
 ## Tutorials

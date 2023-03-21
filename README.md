@@ -190,3 +190,5 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [GitHub - Doprez/Doprez.Stride: A bundle of Stride related libraries](https://github.com/Doprez/Doprez.Stride)
   
 - [GitHub - VirtualBrightPlayz/AutoImportStride: A script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
+
+- [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)

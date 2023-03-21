@@ -134,13 +134,13 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 - Libraries
   
-  - [GitHub - Doprez/Doprez.Stride.AI: a Library meant to be used to handle AI in Stride games](https://github.com/Doprez/Doprez.Stride.AI)
+  - [Doprez.Stride.AI: FSM and GOAP library for Stride](https://github.com/Doprez/Doprez.Stride.AI)
     
 - Examples
   
-  - [GitHub - Doprez/stride-npc: A basic example of a Finit State Machine in the Stride game engine](https://github.com/Doprez/stride-npc)
+  - [stride-npc: A basic example of a Finit State Machine](https://github.com/Doprez/stride-npc)
     
-  - [GitHub - Doprez/stride-goap: a very simple Goap implenetation for Stride using MountainGoap](https://github.com/Doprez/stride-goap)
+  - [stride-goap: a very simple Goap implenetation of GOAP using MountainGoap](https://github.com/Doprez/stride-goap)
     
 
 ## Shaders

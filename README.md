@@ -113,6 +113,10 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
 
 - [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature)
+
+- [render Stride in a WPF UserControl](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
+
+- [render Stride in an Avalonia UserControl](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
   
 
 ## Demos

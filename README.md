@@ -60,7 +60,19 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Fog Of War](https://github.com/herocrab/StrideFogOfWarPlus)
 
 - [Super Character Controller](https://github.com/corthax/SuperCharacterController)
-  
+
+- [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) 
+  - [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample)
+  - [Text Ctonrol](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample)
+  - [Entity Processor](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/EntityProcessorExample)
+  - [Game Screne Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample)
+  - [Level Editor Extensions](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/LevelEditorExtensionExample)
+  - [Multiplayer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/MultiplayerExample)
+  - [Object Info Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ObjectInfoRenderTargetExample)
+  - [Screen Space Decals](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalExample)
+  - [Screen Space Decals With Root Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalRootRendererExample)
+  - [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample)
+
 
 ## Tutorials
 

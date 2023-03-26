@@ -61,6 +61,9 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 - [Super Character Controller](https://github.com/corthax/SuperCharacterController)
 
+- [Xenko/Stride byte sized project examples](https://github.com/profan/XenkoByteSized)
+
+
 - [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) 
   - [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample)
   - [Text Ctonrol](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample)
@@ -186,6 +189,12 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## Terrain
 
 - [TR.Stride: Various stride environment utilities](https://github.com/johang88/TR.Stride)
+
+- [Xenko/Stride heightmap terrain](https://github.com/TomGroner/XenkoTerrain)
+
+- [Xenko/Stride marching cubes terrain](https://github.com/SilentCLD/XenkoMCTerrain)
+
+- [Xenko/Stride heightmap terrain #2](https://github.com/SilentCLD/XenkoHMTerrain)
   
 
 ## Networking

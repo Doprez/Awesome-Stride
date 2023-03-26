@@ -63,6 +63,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 - [Xenko/Stride byte sized project examples](https://github.com/profan/XenkoByteSized)
 
+- [Stride Instancing Example](https://github.com/tebjan/StrideTransformationInstancing)
+
 
 - [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) 
   - [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample)
@@ -213,7 +215,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia)
   
 - [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug)
-  
+
 
 ## Misc
 

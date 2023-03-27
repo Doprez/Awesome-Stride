@@ -217,6 +217,17 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug)
 
 
+## Embeded Stride
+
+- project examples
+	- [Stride in Ultralight Blazor](https://github.com/lionfire/LionFire.Stride.Ultralight)
+	- [Stride in Winforms](https://github.com/windperson/-StrideGameNet5WinFormsDemo)
+
+- code blobs
+	- [Stride in WPF Control](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
+	- [Stride in avalonia Control](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+
+
 ## Misc
 
 - [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)

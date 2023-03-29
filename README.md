@@ -157,7 +157,17 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - code blobs
 	- [Stride in WPF Control](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
 	- [Stride in avalonia Control](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+	
 
+## Made with Stride
+- Releases
+ - [Children of the galaxy](https://www.emptykeys.com/games/children-of-the-galaxy/)
+ - [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2/)
+
+- Game Jams
+ - [Step up by Manio](https://manio143.itch.io/project-step-up)
+ - [Stopping the Rogue by manio](https://manio143.itch.io/stopping-the-rogue)
+ - [Once Upon a LAN by Jarmo](https://jarmo.itch.io/once-upon-a-lan)
 
 ## Misc
 

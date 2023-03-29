@@ -161,13 +161,13 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Made with Stride
 - Releases
- - [Children of the galaxy](https://www.emptykeys.com/games/children-of-the-galaxy/)
- - [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2/)
+	- [Children of the galaxy](https://www.emptykeys.com/games/children-of-the-galaxy/)
+	- [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2/)
 
 - Game Jams
- - [Step up by Manio](https://manio143.itch.io/project-step-up)
- - [Stopping the Rogue by manio](https://manio143.itch.io/stopping-the-rogue)
- - [Once Upon a LAN by Jarmo](https://jarmo.itch.io/once-upon-a-lan)
+	- [Step up by Manio](https://manio143.itch.io/project-step-up)
+	- [Stopping the Rogue by manio](https://manio143.itch.io/stopping-the-rogue)
+	- [Once Upon a LAN by Jarmo](https://jarmo.itch.io/once-upon-a-lan)
 
 ## Misc
 

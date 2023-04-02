@@ -164,6 +164,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - Releases
 	- [Children of the galaxy](https://www.emptykeys.com/games/children-of-the-galaxy/)
 	- [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2/)
+	- [Snaaker Friends](https://store.steampowered.com/app/1443760/Snaaker__Friends/)
+	- [VVVVarkle with vvvv rendered using Stride](https://github.com/BenTec3d/VVVVarkle/releases/tag/v1.0)
 
 - Game Jams
 	- [Step up by Manio](https://manio143.itch.io/project-step-up)

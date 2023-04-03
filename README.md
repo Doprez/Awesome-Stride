@@ -53,6 +53,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   - [Screen Space Decals](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalExample)
   - [Screen Space Decals With Root Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalRootRendererExample)
   - [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample)
+ - [Load Scenes in parallel](https://github.com/julyfortoday/StrideParallelScenes)
+ - [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
 
 
 ## Tutorials
@@ -121,6 +123,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
 - [StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
 - [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
+- [Triplanar shader](https://github.com/herocrab/StrideTriplanarShader)
   
 
 ## Visual Programming

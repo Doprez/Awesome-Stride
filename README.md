@@ -55,6 +55,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   - [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample)
  - [Load Scenes in parallel](https://github.com/julyfortoday/StrideParallelScenes)
  - [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
+ - [Easier input binding configuration](https://github.com/lparkermg/LPSoft.Stride.InputExtensions)
+ - [Physics constraints demo](https://github.com/manio143/StrideConstraintsDemo)
 
 
 ## Tutorials

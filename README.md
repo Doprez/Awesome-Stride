@@ -11,11 +11,11 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## ECS examples
 
 - Articles
-  - [Svelto turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
-  - [Svelto Abstraction from OOP](https://www.sebaslab.com/ecs-abstraction-layers-and-modules-encapsulation/)
-  - [Svelto doofuses example](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
+	- [Svelto turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
+	- [Svelto Abstraction from OOP](https://www.sebaslab.com/ecs-abstraction-layers-and-modules-encapsulation/)
+	- [Svelto doofuses example](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
 - Repositories
-  - [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples)
+ 	- [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples)
     
 
 ## Game Examples
@@ -24,6 +24,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   - [Basic Platformer WIP](https://github.com/Doprez/stride-platformer)
   - [Xenko TPS example](https://github.com/stride3d/Starbreach)
   - [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)
+  - [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
     
 
 ## Example Projects
@@ -43,36 +44,35 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Xenko/Stride byte sized project examples](https://github.com/profan/XenkoByteSized)
 - [Stride Instancing Example](https://github.com/tebjan/StrideTransformationInstancing)
 - [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) 
-  - [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample)
-  - [Text Ctonrol](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample)
-  - [Entity Processor](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/EntityProcessorExample)
-  - [Game Screne Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample)
-  - [Level Editor Extensions](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/LevelEditorExtensionExample)
-  - [Multiplayer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/MultiplayerExample)
-  - [Object Info Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ObjectInfoRenderTargetExample)
-  - [Screen Space Decals](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalExample)
-  - [Screen Space Decals With Root Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalRootRendererExample)
-  - [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample)
- - [Load Scenes in parallel](https://github.com/julyfortoday/StrideParallelScenes)
- - [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
- - [Easier input binding configuration](https://github.com/lparkermg/LPSoft.Stride.InputExtensions)
- - [Physics constraints demo](https://github.com/manio143/StrideConstraintsDemo)
+	- [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample)
+	- [Text Ctonrol](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample)
+	- [Entity Processor](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/EntityProcessorExample)
+	- [Game Screne Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample)
+	- [Level Editor Extensions](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/LevelEditorExtensionExample)
+	- [Multiplayer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/MultiplayerExample)
+	- [Object Info Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ObjectInfoRenderTargetExample)
+	- [Screen Space Decals](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalExample)
+	- [Screen Space Decals With Root Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ScreenSpaceDecalRootRendererExample)
+	- [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample)
+- [Load Scenes in parallel](https://github.com/julyfortoday/StrideParallelScenes)
+- [Easier input binding configuration](https://github.com/lparkermg/LPSoft.Stride.InputExtensions)
+- [Physics constraints demo](https://github.com/manio143/StrideConstraintsDemo)
 
 
 ## Tutorials
 
 - [Stride - YouTube](https://www.youtube.com/c/Stride3d)
-  - [Stride Beginner Tutorials](https://www.youtube.com/watch?v=Z2kUQhSmdr0&list=PLRZx2y7uC8mNySUMfOQf-TLNVnnHkLfPi)
-  - [Stride Intermediate Tutorials](https://www.youtube.com/watch?v=-IXw64hZAqg&list=PLRZx2y7uC8mOE6_L0ZiFxNBE7HmzU2dP7)
+	- [Stride Beginner Tutorials](https://www.youtube.com/watch?v=Z2kUQhSmdr0&list=PLRZx2y7uC8mNySUMfOQf-TLNVnnHkLfPi)
+	- [Stride Intermediate Tutorials](https://www.youtube.com/watch?v=-IXw64hZAqg&list=PLRZx2y7uC8mOE6_L0ZiFxNBE7HmzU2dP7)
 - [Old Stride tutorials from gamefromscratch](https://www.youtube.com/watch?v=hmPrUuQQz8M&list=PLS9MbmO_ssyBLHw7rZeGmriUkRaxBp7LL)
 - [How To setup Real Time Voxel Global Illumination](https://www.youtube.com/watch?v=NEMZ_HJzJ7w&t=1s)
 - [Basic Platformer Movement Tutorial](https://www.youtube.com/watch?v=eTMT5up1AlY&t=2s)
 - [Marian Dziubiak - YouTube](https://www.youtube.com/@manio1432/videos)
-  - [Stride Ragdoll Tutorial (beta)](https://youtu.be/n8yAV8OSbes)
-  - [Bullet physics constraints in Stride](https://www.youtube.com/watch?v=uMZMYpMD3Wg&t=1s)
-  - [Stride Clean UI tutorial step by step](https://www.youtube.com/watch?v=cazIR97VPcg)
-  - [How to use locally built Stride Engine to debug your game](https://www.youtube.com/watch?v=bXSC9o-EaR8)
-  - [How to create custom configuration in Stride](https://www.youtube.com/watch?v=QKizq1xC4vk)
+	- [Stride Ragdoll Tutorial (beta)](https://youtu.be/n8yAV8OSbes)
+	- [Bullet physics constraints in Stride](https://www.youtube.com/watch?v=uMZMYpMD3Wg&t=1s)
+	- [Stride Clean UI tutorial step by step](https://www.youtube.com/watch?v=cazIR97VPcg)
+	- [How to use locally built Stride Engine to debug your game](https://www.youtube.com/watch?v=bXSC9o-EaR8)
+	- [How to create custom configuration in Stride](https://www.youtube.com/watch?v=QKizq1xC4vk)
 - [Jorn Theunissen - This person created the Stride tutorials](https://www.youtube.com/@Jorntheunissen/videos)
   
 
@@ -100,13 +100,13 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## Demos
 
 - Youtube
-  - [Stride Engine FPS Controller](https://www.youtube.com/watch?v=lrHfwvC9ARA)
-  - [Rescue Drone - August 2015](https://www.youtube.com/watch?v=wOZ-s7Q4qWY)
-  - [Xenko Game Engine: How The Makers Of Bravely Default Want To Help Develop Better VR Games](https://www.youtube.com/watch?v=1hgh7R38yK8)
-  - [Xenko Procedural Terrain Generation &amp; Water tests](https://www.youtube.com/watch?v=ba_Tpz4ojHk)
-  - [Xenko 1.8 - Cel Shading](https://www.youtube.com/watch?v=RJDrG1QR3Uo)
+	- [Stride Engine FPS Controller](https://www.youtube.com/watch?v=lrHfwvC9ARA)
+	- [Rescue Drone - August 2015](https://www.youtube.com/watch?v=wOZ-s7Q4qWY)
+	- [Xenko Game Engine: How The Makers Of Bravely Default Want To Help Develop Better VR Games](https://www.youtube.com/watch?v=1hgh7R38yK8)
+	- [Xenko Procedural Terrain Generation &amp; Water tests](https://www.youtube.com/watch?v=ba_Tpz4ojHk)
+	- [Xenko 1.8 - Cel Shading](https://www.youtube.com/watch?v=RJDrG1QR3Uo)
 - Twitter
-  - [Networking from Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
+	- [Networking from Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
     
 
 ## AI

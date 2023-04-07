@@ -25,6 +25,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   - [Xenko TPS example](https://github.com/stride3d/Starbreach)
   - [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)
   - [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
+  - [Zerobot](https://github.com/joaovsq/Zerobot)
     
 
 ## Example Projects

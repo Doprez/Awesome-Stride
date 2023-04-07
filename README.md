@@ -174,7 +174,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 	- [VVVVarkle with vvvv rendered using Stride](https://github.com/BenTec3d/VVVVarkle/releases/tag/v1.0)
 
 - Game Jams
-	- [Step up by Manio](https://manio143.itch.io/project-step-up)
+	- [Step up Made by Marian Dziubiak and Youness Kafia](https://manio143.itch.io/project-step-up)
 	- [Stopping the Rogue by manio](https://manio143.itch.io/stopping-the-rogue)
 	- [Once Upon a LAN by Jarmo](https://jarmo.itch.io/once-upon-a-lan)
 

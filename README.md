@@ -75,6 +75,13 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 	- [How to use locally built Stride Engine to debug your game](https://www.youtube.com/watch?v=bXSC9o-EaR8)
 	- [How to create custom configuration in Stride](https://www.youtube.com/watch?v=QKizq1xC4vk)
 - [Jorn Theunissen - This person created the Stride tutorials](https://www.youtube.com/@Jorntheunissen/videos)
+- [VVVV Visual scripting with Stride]
+	- [VL: 1. Navigating the Environment](https://www.youtube.com/watch?v=7m1EzfxUtzo)
+	- [VL: 2. Data Types & IOBoxes](https://www.youtube.com/watch?v=9iH72qdb4Xk)
+	- [VL: 3. Nodes & Pins](https://www.youtube.com/watch?v=eCTEAFfb9rQ)
+	- [VL: 4. Type Conversion](https://www.youtube.com/watch?v=r1X0VJ9oumQ)
+	- [VL: 5. The Stride Rendering Pipeline](https://www.youtube.com/watch?v=4rDgVe1F0gg)
+	- [VL: 6. Spreads & Iteration](https://www.youtube.com/watch?v=3u3QOd4UyWM)
   
 
 ## Code blobs

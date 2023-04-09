@@ -82,6 +82,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 	- [VL: 4. Type Conversion](https://www.youtube.com/watch?v=r1X0VJ9oumQ)
 	- [VL: 5. The Stride Rendering Pipeline](https://www.youtube.com/watch?v=4rDgVe1F0gg)
 	- [VL: 6. Spreads & Iteration](https://www.youtube.com/watch?v=3u3QOd4UyWM)
+	- [VL: 7. Controlling Patches](https://www.youtube.com/watch?v=LOX32diUgOQ)
   
 
 ## Code blobs

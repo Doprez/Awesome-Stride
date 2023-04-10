@@ -116,6 +116,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 	- [Xenko 1.8 - Cel Shading](https://www.youtube.com/watch?v=RJDrG1QR3Uo)
 - Twitter
 	- [Networking from Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
+- Vimeo
+	- [Data Sculpture for Herrenknecht rendered with Stride](https://vimeo.com/797315059)
     
 
 ## AI

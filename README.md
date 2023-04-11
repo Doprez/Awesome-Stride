@@ -164,6 +164,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra)
 - [Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia)
 - [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug)
+- [Empty Keys UI for Xenko](https://github.com/EmptyKeys/UI_Engines)
 
 
 ## Embeded Stride

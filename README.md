@@ -58,6 +58,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Load Scenes in parallel](https://github.com/julyfortoday/StrideParallelScenes)
 - [Easier input binding configuration](https://github.com/lparkermg/LPSoft.Stride.InputExtensions)
 - [Physics constraints demo](https://github.com/manio143/StrideConstraintsDemo)
+- [Tweening library](https://github.com/JoshFlash/ZenTween)
 
 
 ## Tutorials

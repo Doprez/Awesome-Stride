@@ -60,6 +60,11 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Physics constraints demo](https://github.com/manio143/StrideConstraintsDemo)
 - [Tweening library](https://github.com/JoshFlash/ZenTween)
 
+### Very old projects
+
+- [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/)
+	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
+
 
 ## Tutorials
 

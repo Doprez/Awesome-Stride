@@ -65,6 +65,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/)
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
 - [A Minecraft style game](https://github.com/NckHmml/ParadoxCraft)
+- [Xenko Live Editor](https://github.com/treplogle/XenkoLiveEditor)
 
 
 ## Tutorials

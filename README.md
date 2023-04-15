@@ -46,7 +46,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stride Instancing Example](https://github.com/tebjan/StrideTransformationInstancing)
 - [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) 
 	- [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample)
-	- [Text Ctonrol](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample)
+	- [Text Control](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample)
 	- [Entity Processor](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/EntityProcessorExample)
 	- [Game Screne Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample)
 	- [Level Editor Extensions](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/LevelEditorExtensionExample)

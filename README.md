@@ -145,6 +145,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
 - [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
 - [Triplanar shader](https://github.com/herocrab/StrideTriplanarShader)
+- [glass shader](https://github.com/stride3d/stride/discussions/1011)
   
 
 ## Visual Programming

@@ -207,3 +207,4 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [AutoImportStride: A script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
 - [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)
 - [Blender plugin to export bulk anims for importing into Stride](https://github.com/JackPilley/BlenderToStrideAnimationSeparator)
+- [Run Stride with only Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)

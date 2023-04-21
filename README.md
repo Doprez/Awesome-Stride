@@ -62,6 +62,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Simple water](https://github.com/TomGroner/XenkoFlowingWater)
 - [Simple Water 2](https://github.com/johang88/StrideSimpleWater)
 - [Tessalation](https://github.com/johang88/Stride-Tessellation)
+- [Source generation](https://github.com/johang88/StrideSourceGeneratorTest)
 
 ### Very old projects
 

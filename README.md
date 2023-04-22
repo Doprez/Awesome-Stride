@@ -163,6 +163,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Xenko/Stride heightmap terrain](https://github.com/TomGroner/XenkoTerrain)
 - [Xenko/Stride marching cubes terrain](https://github.com/SilentCLD/XenkoMCTerrain)
 - [Xenko/Stride heightmap terrain #2](https://github.com/SilentCLD/XenkoHMTerrain)
+- [Another Terrain from Johang](https://github.com/johang88/StrideTerrain)
   
 
 ## Networking

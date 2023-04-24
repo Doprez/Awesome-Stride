@@ -63,6 +63,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Simple Water 2](https://github.com/johang88/StrideSimpleWater)
 - [Tessalation](https://github.com/johang88/Stride-Tessellation)
 - [Source generation](https://github.com/johang88/StrideSourceGeneratorTest)
+- [Camera Controller](https://github.com/herocrab/StrideCameraController)
 
 ### Very old projects
 

@@ -64,6 +64,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Tessalation](https://github.com/johang88/Stride-Tessellation)
 - [Source generation](https://github.com/johang88/StrideSourceGeneratorTest)
 - [Camera Controller](https://github.com/herocrab/StrideCameraController)
+- [Stride config example](https://github.com/johang88/StrideConfigurationReference)
 
 ### Very old projects
 

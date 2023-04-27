@@ -158,6 +158,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## Visual Programming
 
 - [vvvv uses Stride for 3d rendering](https://visualprogramming.net/)
+- [3D UI using Stride and VVVV](https://github.com/tebjan/StrideUIPageDemo)
   
 
 ## Terrain

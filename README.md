@@ -11,9 +11,9 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## ECS examples
 
 - Articles
-	- [Svelto turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
+	- [Svelto Turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
 	- [Svelto Abstraction from OOP](https://www.sebaslab.com/ecs-abstraction-layers-and-modules-encapsulation/)
-	- [Svelto doofuses example](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
+	- [Svelto Doofuses example](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
 - Repositories
  	- [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples)
     
@@ -114,11 +114,11 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## Engine Documentation
 
 - [Stride Editor current design document](https://gist.github.com/manio143/b6666eedb1403deb5525961697d0c25d)
-- [stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/)
+- [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/)
 - [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
 - [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature)
-- [render Stride in a WPF UserControl](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
-- [render Stride in an Avalonia UserControl](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+- [Render Stride in a WPF UserControl](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
+- [Render Stride in an Avalonia UserControl](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
   
 
 ## Demos
@@ -140,8 +140,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - Libraries
   - [Doprez.Stride.AI: FSM and GOAP library for Stride](https://github.com/Doprez/Doprez.Stride.AI)
 - Examples
-  - [stride-npc: A basic example of a Finit State Machine](https://github.com/Doprez/stride-npc)
-  - [stride-goap: a very simple Goap implenetation of GOAP using MountainGoap](https://github.com/Doprez/stride-goap)
+  - [Stride-npc: A basic example of a Finit State Machine](https://github.com/Doprez/stride-npc)
+  - [Stride-goap: a very simple Goap implenetation of GOAP using MountainGoap](https://github.com/Doprez/stride-goap)
     
 
 ## Shaders
@@ -152,12 +152,12 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
 - [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
 - [Triplanar shader](https://github.com/herocrab/StrideTriplanarShader)
-- [glass shader](https://github.com/stride3d/stride/discussions/1011)
+- [Glass shader](https://github.com/stride3d/stride/discussions/1011)
   
 
 ## Visual Programming
 
-- [vvvv uses Stride for 3d rendering](https://visualprogramming.net/)
+- [VVVV uses Stride for 3d rendering](https://visualprogramming.net/)
 - [3D UI using Stride and VVVV](https://github.com/tebjan/StrideUIPageDemo)
   
 

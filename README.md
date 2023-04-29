@@ -109,6 +109,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stride 3D rendered into Avalonia](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
 - [Xenko/Stride 3rd person controller](https://pastebin.com/4nFbabkZ)
 - [Async shader compilation](https://gist.github.com/Eideren/ef6be9508d8d3b0e460d8a6d15f0937b)
+- [Animation Trigger script](https://gist.github.com/Doprez/3ff7463fc48bd8e69178fde388dd1df4)
   
 
 ## Engine Documentation

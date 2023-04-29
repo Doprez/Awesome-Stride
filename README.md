@@ -48,7 +48,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 	- [Cutscene Timeline](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/CutsceneTimelineExample)
 	- [Text Control](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/DialogueTextControlExample)
 	- [Entity Processor](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/EntityProcessorExample)
-	- [Game Screne Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample)
+	- [Game Screen Manager](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/GameScreenManagerExample)
 	- [Level Editor Extensions](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/LevelEditorExtensionExample)
 	- [Multiplayer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/MultiplayerExample)
 	- [Object Info Renderer](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/ObjectInfoRenderTargetExample)

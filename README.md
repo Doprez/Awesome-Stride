@@ -111,6 +111,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Async shader compilation](https://gist.github.com/Eideren/ef6be9508d8d3b0e460d8a6d15f0937b)
 - [Animation Trigger script](https://gist.github.com/Doprez/3ff7463fc48bd8e69178fde388dd1df4)
 - [Smooth follow](https://gist.github.com/Doprez/e146f8d30b7e9cea05de138d4e3a30f0)
+- [Create button dynamically](https://gist.github.com/Doprez/169993217a202f0e6e8c2ab93709d85c)
   
 
 ## Engine Documentation

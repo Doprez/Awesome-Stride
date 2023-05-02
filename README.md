@@ -20,7 +20,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Game Examples
 
-- Respoitories
+- Respositories
   - [Basic Platformer WIP](https://github.com/Doprez/stride-platformer)
   - [Xenko TPS example](https://github.com/stride3d/Starbreach)
   - [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)

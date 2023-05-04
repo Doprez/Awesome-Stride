@@ -67,6 +67,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stride config example](https://github.com/johang88/StrideConfigurationReference)
 
 ### Very old projects
+These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox.
 
 - [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/)
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)

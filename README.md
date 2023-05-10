@@ -66,6 +66,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Camera Controller](https://github.com/herocrab/StrideCameraController)
 - [Stride config example](https://github.com/johang88/StrideConfigurationReference)
 - [Control - Input Manager](https://github.com/rsptim1/Ctrl)
+- [LOD implementation](https://github.com/Xisrith/StrideLOD)
 
 ### Very old projects
 These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox.

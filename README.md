@@ -129,6 +129,7 @@ These are projects that defnitely will not work with Stride without massive rewr
 - [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature)
 - [Render Stride in a WPF UserControl](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
 - [Render Stride in an Avalonia UserControl](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+- [Strideui discussion](https://gist.github.com/manio143/8706b4bad5f7db5402d3b81acbb6276e)
   
 
 ## Demos

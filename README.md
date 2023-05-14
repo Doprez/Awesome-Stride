@@ -8,7 +8,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 [Stride official wiki](https://github.com/stride3d/stride/wiki/Community-Projects)
 
-## ECS examples
+## ECS Examples
 
 - Articles
 	- [Svelto Turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)

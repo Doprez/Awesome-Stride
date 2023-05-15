@@ -68,6 +68,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Control - Input Manager](https://github.com/rsptim1/Ctrl)
 - [LOD implementation](https://github.com/Xisrith/StrideLOD)
 - [Creating a procedural model](https://github.com/tebjan/StrideProceduralModel)
+- [Stride IK implementation](https://github.com/flipdp/Stride.IK/tree/master)
 
 ### Very old projects
 These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox.

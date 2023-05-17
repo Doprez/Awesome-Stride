@@ -70,6 +70,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Creating a procedural model](https://github.com/tebjan/StrideProceduralModel)
 - [Stride IK implementation](https://github.com/flipdp/Stride.IK/tree/master)
 - [Sound detection in Stride](https://github.com/manio143/BeatDetection)
+- [Running Stride headless client/server](https://github.com/xen2/Xenko.ClientServerSample)
 
 ### Very old projects
 These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox.

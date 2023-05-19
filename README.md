@@ -227,6 +227,7 @@ These are projects that defnitely will not work with Stride without massive rewr
 - [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)
 - [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit)
 - [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride)
+- [NexCoreExtension extra Stride extensions](https://github.com/NexStandard/NexCoreExtension)
 - [AutoImportStride: A script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
 - [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)
 - [Blender plugin to export bulk anims for importing into Stride](https://github.com/JackPilley/BlenderToStrideAnimationSeparator)

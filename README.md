@@ -6,7 +6,7 @@ Stride is a Completely open source, MIT licensed Game engine built from the grou
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
-[Stride official wiki](https://github.com/stride3d/stride/wiki/Community-Projects)
+[Strides official wiki](https://github.com/stride3d/stride/wiki/Community-Projects)
 
 ## ECS Examples
 

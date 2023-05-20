@@ -79,6 +79,7 @@ These are projects that defnitely will not work with Stride without massive rewr
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
 - [A Minecraft style game](https://github.com/NckHmml/ParadoxCraft)
 - [Xenko Live Editor](https://github.com/treplogle/XenkoLiveEditor)
+	- [New Stride version](https://github.com/tebjan/StrideLiveEditor)
 
 
 ## Tutorials

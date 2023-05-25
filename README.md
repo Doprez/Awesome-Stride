@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Stride is a Completely open source, MIT licensed Game engine built from the ground up in C#.
+Stride is a completely open source, MIT licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 

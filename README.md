@@ -73,7 +73,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Running Stride headless client/server](https://github.com/xen2/Xenko.ClientServerSample)
 
 ### Very old projects
-These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox.
+These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.
 
 - [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/)
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)

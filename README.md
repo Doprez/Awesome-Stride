@@ -156,7 +156,7 @@ These are projects that defnitely will not work with Stride without massive rewr
 - Libraries
   - [Doprez.Stride.AI: FSM and GOAP library for Stride](https://github.com/Doprez/Doprez.Stride.AI)
 - Examples
-  - [Stride-npc: A basic example of a Finit State Machine](https://github.com/Doprez/stride-npc)
+  - [Stride-npc: A basic example of a Finite State Machine](https://github.com/Doprez/stride-npc)
   - [Stride-goap: a very simple Goap implenetation of GOAP using MountainGoap](https://github.com/Doprez/stride-goap)
     
 

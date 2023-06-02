@@ -124,6 +124,7 @@ These are projects that defnitely will not work with Stride without massive rewr
 - [Smooth follow](https://gist.github.com/Doprez/e146f8d30b7e9cea05de138d4e3a30f0)
 - [Create button dynamically](https://gist.github.com/Doprez/169993217a202f0e6e8c2ab93709d85c)
 - [Basic Stride LOD system](https://gist.github.com/Doprez/5327fbd7d8c371938088db81d82d153b)
+- [Smooth Rotation](https://gist.github.com/Doprez/5bd571341b075c5cf257d7265c374807)
   
 
 ## Engine Documentation

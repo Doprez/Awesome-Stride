@@ -174,7 +174,7 @@ These are projects that defnitely will not work with Stride without massive rewr
 
 ## Visual Programming
 
-- [VVVV uses Stride for 3d rendering](https://visualprogramming.net/)
+- [VVVV uses Stride for 3D rendering](https://visualprogramming.net/)
 - [3D UI using Stride and VVVV](https://github.com/tebjan/StrideUIPageDemo)
   
 

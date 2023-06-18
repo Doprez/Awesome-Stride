@@ -170,6 +170,7 @@ These are projects that defnitely will not work with Stride without massive rewr
 - [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
 - [Triplanar shader](https://github.com/herocrab/StrideTriplanarShader)
 - [Glass shader](https://github.com/stride3d/stride/discussions/1011)
+- [Awesome shaders by ykafia](https://github.com/ykafia/Stride-Awesome-Shaders/tree/master)
   
 
 ## Visual Programming

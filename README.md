@@ -11,9 +11,9 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## ECS Examples
 
 - Articles
-	- [Svelto Turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
 	- [Svelto Abstraction from OOP](https://www.sebaslab.com/ecs-abstraction-layers-and-modules-encapsulation/)
 	- [Svelto Doofuses example](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
+	- [Svelto Turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
 - Repositories
  	- [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples)
     
@@ -21,10 +21,10 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ## Game Examples
 
 - Respositories
-  - [Basic Platformer WIP](https://github.com/Doprez/stride-platformer)
-  - [Xenko TPS example](https://github.com/stride3d/Starbreach)
-  - [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)
   - [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
+  - [Basic Platformer WIP](https://github.com/Doprez/stride-platformer)
+  - [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)
+  - [Xenko TPS example](https://github.com/stride3d/Starbreach)
   - [Zerobot](https://github.com/joaovsq/Zerobot)
     
 
@@ -75,24 +75,24 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 ### Very old projects
 These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.
 
+- [A Minecraft style game](https://github.com/NckHmml/ParadoxCraft)
 - [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/)
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
-- [A Minecraft style game](https://github.com/NckHmml/ParadoxCraft)
 - [Xenko Live Editor](https://github.com/treplogle/XenkoLiveEditor)
 	- [New Stride version](https://github.com/tebjan/StrideLiveEditor)
 
 
 ## Tutorials
 
+- [Coding Sea](https://www.youtube.com/@CodingSea/videos)
+	- [Basic Platformer Movement Tutorial](https://www.youtube.com/watch?v=eTMT5up1AlY&t=2s)
+	- [SpriteSheet animation tutorial](https://www.youtube.com/watch?v=ZBhUfNkvZhQ)
+	- [2D camera system](https://www.youtube.com/watch?v=eaTpWpxKajE)
 - [Stride - YouTube](https://www.youtube.com/c/Stride3d)
 	- [Stride Beginner Tutorials](https://www.youtube.com/watch?v=Z2kUQhSmdr0&list=PLRZx2y7uC8mNySUMfOQf-TLNVnnHkLfPi)
 	- [Stride Intermediate Tutorials](https://www.youtube.com/watch?v=-IXw64hZAqg&list=PLRZx2y7uC8mOE6_L0ZiFxNBE7HmzU2dP7)
 - [Old Stride tutorials from gamefromscratch](https://www.youtube.com/watch?v=hmPrUuQQz8M&list=PLS9MbmO_ssyBLHw7rZeGmriUkRaxBp7LL)
 - [How To setup Real Time Voxel Global Illumination](https://www.youtube.com/watch?v=NEMZ_HJzJ7w&t=1s)
-- [Coding Sea](https://www.youtube.com/@CodingSea/videos)
-	- [Basic Platformer Movement Tutorial](https://www.youtube.com/watch?v=eTMT5up1AlY&t=2s)
-	- [SpriteSheet animation tutorial](https://www.youtube.com/watch?v=ZBhUfNkvZhQ)
-	- [2D camera system](https://www.youtube.com/watch?v=eaTpWpxKajE)
 - [Marian Dziubiak - YouTube](https://www.youtube.com/@manio1432/videos)
 	- [Stride Ragdoll Tutorial (beta)](https://youtu.be/n8yAV8OSbes)
 	- [Bullet physics constraints in Stride](https://www.youtube.com/watch?v=uMZMYpMD3Wg&t=1s)
@@ -113,28 +113,28 @@ These are projects that defnitely will not work with Stride without massive rewr
 ## Code blobs
 
 [Stride C# gists search](https://gist.github.com/search?l=c%23&q=stride)
-- [Look at script](https://gist.github.com/ykafia/9579569c26e2724f1a35afab0449b72a)
-- [CameraFollow.cs](https://gist.github.com/ykafia/371b310de1ba7bb8ab3d2feffce2a190)
-- [Stride controller UI navigation](https://gist.github.com/Aggror/4ba0632bd934103c6dcdb077a84376ef)
-- [Export/save a scene or a group of entities within a running stride game](https://gist.github.com/Eideren/0aa59644eb7c5b029d04b7fa5a285e62)
-- [Stride 3D rendered into Avalonia](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
-- [Xenko/Stride 3rd person controller](https://pastebin.com/4nFbabkZ)
 - [Async shader compilation](https://gist.github.com/Eideren/ef6be9508d8d3b0e460d8a6d15f0937b)
 - [Animation Trigger script](https://gist.github.com/Doprez/3ff7463fc48bd8e69178fde388dd1df4)
-- [Smooth follow](https://gist.github.com/Doprez/e146f8d30b7e9cea05de138d4e3a30f0)
-- [Create button dynamically](https://gist.github.com/Doprez/169993217a202f0e6e8c2ab93709d85c)
 - [Basic Stride LOD system](https://gist.github.com/Doprez/5327fbd7d8c371938088db81d82d153b)
+- [CameraFollow.cs](https://gist.github.com/ykafia/371b310de1ba7bb8ab3d2feffce2a190)
+- [Create button dynamically](https://gist.github.com/Doprez/169993217a202f0e6e8c2ab93709d85c)
+- [Export/save a scene or a group of entities within a running stride game](https://gist.github.com/Eideren/0aa59644eb7c5b029d04b7fa5a285e62)
+- [Look at script](https://gist.github.com/ykafia/9579569c26e2724f1a35afab0449b72a)
+- [Stride controller UI navigation](https://gist.github.com/Aggror/4ba0632bd934103c6dcdb077a84376ef)
+- [Stride 3D rendered into Avalonia](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+- [Smooth follow](https://gist.github.com/Doprez/e146f8d30b7e9cea05de138d4e3a30f0)
 - [Smooth Rotation](https://gist.github.com/Doprez/5bd571341b075c5cf257d7265c374807)
+- [Xenko/Stride 3rd person controller](https://pastebin.com/4nFbabkZ)
   
 
 ## Engine Documentation
 
-- [Stride Editor current design document](https://gist.github.com/manio143/b6666eedb1403deb5525961697d0c25d)
-- [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/)
-- [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
 - [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature)
+- [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
 - [Render Stride in a WPF UserControl](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
 - [Render Stride in an Avalonia UserControl](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+- [Stride Editor current design document](https://gist.github.com/manio143/b6666eedb1403deb5525961697d0c25d)
+- [Stride docs shader stages](https://github.com/stride3d/stride-docs/blob/master/en/manual/graphics/effects-and-shaders/shading-language/shader-stages.md/)
 - [Strideui discussion](https://gist.github.com/manio143/8706b4bad5f7db5402d3b81acbb6276e)
   
 
@@ -163,14 +163,14 @@ These are projects that defnitely will not work with Stride without massive rewr
 
 ## Shaders
 
+- [Awesome shaders by ykafia](https://github.com/ykafia/Stride-Awesome-Shaders/tree/master)
+- [Glass shader](https://github.com/stride3d/stride/discussions/1011)
 - [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer)
 - [Stride-Awesome-Shaders: Just a repository for cool shaders usable in stride](https://github.com/ykafia/Stride-Awesome-Shaders)
-- [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
 - [StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
 - [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
 - [Triplanar shader](https://github.com/herocrab/StrideTriplanarShader)
-- [Glass shader](https://github.com/stride3d/stride/discussions/1011)
-- [Awesome shaders by ykafia](https://github.com/ykafia/Stride-Awesome-Shaders/tree/master)
+- [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
   
 
 ## Visual Programming
@@ -190,17 +190,17 @@ These are projects that defnitely will not work with Stride without massive rewr
 
 ## Networking
 
-- [Stride.Networking.Simple: A simple async event based lib for Stride](https://github.com/manio143/Stride.Networking.Simple)
-- [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote)
 - [GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore)
+- [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote)
+- [Stride.Networking.Simple: A simple async event based lib for Stride](https://github.com/manio143/Stride.Networking.Simple)
   
 
 ## Alternative UI Plugins
 
-- [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra)
+- [Empty Keys UI for Xenko](https://github.com/EmptyKeys/UI_Engines)
 - [Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia)
 - [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug)
-- [Empty Keys UI for Xenko](https://github.com/EmptyKeys/UI_Engines)
+- [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra)
 
 
 ## Embeded Stride
@@ -227,11 +227,11 @@ These are projects that defnitely will not work with Stride without massive rewr
 
 ## Misc
 
-- [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)
-- [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit)
-- [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride)
-- [NexCoreExtension extra Stride extensions](https://github.com/NexStandard/NexCoreExtension)
 - [AutoImportStride: A script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
-- [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)
 - [Blender plugin to export bulk anims for importing into Stride](https://github.com/JackPilley/BlenderToStrideAnimationSeparator)
+- [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride)
+- [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)
+- [NexCoreExtension extra Stride extensions](https://github.com/NexStandard/NexCoreExtension)
 - [Run Stride with only Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
+- [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit)
+- [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)

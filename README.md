@@ -232,6 +232,6 @@ These are projects that defnitely will not work with Stride without massive rewr
 - [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride)
 - [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)
 - [NexCoreExtension extra Stride extensions](https://github.com/NexStandard/NexCoreExtension)
-- [Run Stride with only Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
+- [Run Stride Gamestudio with only Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
 - [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit)
 - [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)

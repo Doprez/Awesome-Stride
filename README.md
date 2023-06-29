@@ -73,7 +73,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Xenko/Stride byte sized project examples](https://github.com/profan/XenkoByteSized)
 
 ### Very old projects
-These are projects that defnitely will not work with Stride without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.
+These are projects that defnitely will not work with Stride 4.x without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.
 
 - [A Minecraft style game](https://github.com/NckHmml/ParadoxCraft)
 - [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/)

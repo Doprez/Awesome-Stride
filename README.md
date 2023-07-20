@@ -171,6 +171,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 - [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
 - [Triplanar shader](https://github.com/herocrab/StrideTriplanarShader)
 - [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
+- [Shaders from VVVV](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders)
   
 
 ## Visual Programming

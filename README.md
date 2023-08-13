@@ -147,6 +147,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 	- [Xenko Game Engine: How The Makers Of Bravely Default Want To Help Develop Better VR Games](https://www.youtube.com/watch?v=1hgh7R38yK8)
 	- [Xenko Procedural Terrain Generation &amp; Water tests](https://www.youtube.com/watch?v=ba_Tpz4ojHk)
 	- [Xenko 1.8 - Cel Shading](https://www.youtube.com/watch?v=RJDrG1QR3Uo)
+ 	- [demo of vxgi implementation in Xenko game engine](https://www.youtube.com/watch?v=AZytf15FRks&t=2s)
 - Twitter
 	- [Networking from Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
 - Vimeo

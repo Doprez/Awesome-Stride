@@ -80,6 +80,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
 - [Xenko Live Editor](https://github.com/treplogle/XenkoLiveEditor)
 	- [New Stride version](https://github.com/tebjan/StrideLiveEditor)
+- [Voxel GI example](https://github.com/WhyPenguins/XenkoVoxelGI)
 
 
 ## Tutorials

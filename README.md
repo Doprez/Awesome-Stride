@@ -160,7 +160,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
   - [Doprez.Stride.AI: FSM and GOAP library for Stride](https://github.com/Doprez/Doprez.Stride.AI)
 - Examples
   - [Stride-npc: A basic example of a Finite State Machine](https://github.com/Doprez/stride-npc)
-  - [Stride-goap: a very simple Goap implenetation of GOAP using MountainGoap](https://github.com/Doprez/stride-goap)
+  - [Stride-goap: a very simple implenetation of GOAP using MountainGoap](https://github.com/Doprez/stride-goap)
     
 
 ## Shaders

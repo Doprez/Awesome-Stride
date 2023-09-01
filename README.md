@@ -181,6 +181,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 
 - [VVVV uses Stride for 3D rendering](https://visualprogramming.net/)
 - [3D UI using Stride and VVVV](https://github.com/tebjan/StrideUIPageDemo)
+- [Render objects with invisible background window](https://github.com/torinos-yt/VL.GlassWindow/tree/master)
   
 
 ## Terrain

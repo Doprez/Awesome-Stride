@@ -175,6 +175,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 - [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
 - [Shaders from VVVV](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders)
 - [More VVVV shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects)
+- [Draw Mesh with a Compute Shader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader)
   
 
 ## Visual Programming

@@ -166,6 +166,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 ## Shaders
 
 - [Awesome shaders by ykafia](https://github.com/ykafia/Stride-Awesome-Shaders/tree/master)
+- [Draw Mesh with a Compute Shader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader)
 - [Glass shader](https://github.com/stride3d/stride/discussions/1011)
 - [Stride.ShaderExplorer: shows the built-in shaders of the Stride](https://github.com/tebjan/Stride.ShaderExplorer)
 - [Stride-Awesome-Shaders: Just a repository for cool shaders usable in stride](https://github.com/ykafia/Stride-Awesome-Shaders)
@@ -175,7 +176,6 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 - [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
 - [Shaders from VVVV](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders)
 - [More VVVV shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects)
-- [Draw Mesh with a Compute Shader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader)
   
 
 ## Visual Programming

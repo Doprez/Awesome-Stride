@@ -40,6 +40,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Fog Of War](https://github.com/herocrab/StrideFogOfWarPlus)
 - [Import files into Stride3D](https://github.com/VirtualBrightPlayz/AutoImportStride)
 - [Loading a Wavefront OBJ file at runtime](https://github.com/jeske/LoadObjTest)
+- [Loading GLTF at runtime](https://github.com/ykafia/StrideGltf/blob/master/GltfImport/LoadGLTF.cs)
 - [LOD implementation](https://github.com/Xisrith/StrideLOD)
 - [Load Scenes in parallel](https://github.com/julyfortoday/StrideParallelScenes)
 - [Proof of Concepts](https://github.com/Basewq/XenkoProofOfConcepts) 

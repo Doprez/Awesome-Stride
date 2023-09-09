@@ -232,13 +232,16 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 	- [Stopping the Rogue by manio](https://manio143.itch.io/stopping-the-rogue)
 	- [Once Upon a LAN by Jarmo](https://jarmo.itch.io/once-upon-a-lan)
 
+## Extension Libraries
+
+- [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit)
+- [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride)
+- [NexCoreExtension extra Stride extensions](https://github.com/NexStandard/NexCoreExtension)
+
 ## Misc
 
 - [AutoImportStride: A script to import files into Stride3D.](https://github.com/VirtualBrightPlayz/AutoImportStride)
 - [Blender plugin to export bulk anims for importing into Stride](https://github.com/JackPilley/BlenderToStrideAnimationSeparator)
-- [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride)
 - [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)
-- [NexCoreExtension extra Stride extensions](https://github.com/NexStandard/NexCoreExtension)
 - [Run Stride Gamestudio with only Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
-- [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit)
 - [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)

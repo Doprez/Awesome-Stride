@@ -132,6 +132,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 ## Engine Documentation
 
 - [Custom Root Renderer](https://github.com/tebjan/Stride.CustomRootRenderFeature)
+- [Compiling Stride for Linux](https://www.youtube.com/watch?v=BoHEASoQvu8)
 - [Experimental mini Stride.Editor in Avalonia](https://github.com/manio143/StrideComponentsEditorAvalonia)
 - [Render Stride in a WPF UserControl](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
 - [Render Stride in an Avalonia UserControl](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)

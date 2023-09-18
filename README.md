@@ -229,6 +229,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 	- [Snaaker Friends](https://store.steampowered.com/app/1443760/Snaaker__Friends/)
 	- [VVVVarkle with vvvv rendered using Stride](https://github.com/BenTec3d/VVVVarkle/releases/tag/v1.0)
  	- [Virtual Desktop](https://www.vrdesktop.net/)
+  	- [Flappy Bird With Source Code](https://nedreid.itch.io/flappy-bird-stride)
 
 - Game Jams
 	- [Step up Made by Marian Dziubiak and Youness Kafia](https://manio143.itch.io/project-step-up)

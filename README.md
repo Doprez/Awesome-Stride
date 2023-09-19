@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Stride is a completely open source, MIT licensed game engine built from the ground up in C#.
+Stride is a completely open-source, MIT-licensed game engine built from the ground up in C#.
 
 WARNING I made this in a bit of a rush. I have not personally used all of these repos and many are old and may need to be updated to work with the current version of Stride.
 
@@ -20,7 +20,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Game Examples
 
-- Respositories
+- Repositories
   - [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
   - [Basic Platformer WIP](https://github.com/Doprez/stride-platformer)
   - [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)
@@ -71,12 +71,12 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stride3D examples in .NET 5 using C# 9.0 or .NET 6 using C# 10](https://github.com/VaclavElias/Stride3DTutorials)
 - [Tweening library](https://github.com/JoshFlash/ZenTween)
 - [Tessellation](https://github.com/johang88/Stride-Tessellation)
-- [Xenko/Stride byte sized project examples](https://github.com/profan/XenkoByteSized)
+- [Xenko/Stride byte-sized project examples](https://github.com/profan/XenkoByteSized)
 
 ### Very old projects
-These are projects that defnitely will not work with Stride 4.x without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.
+These are projects that definitely will not work with Stride 4.x without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.
 
-- [A Minecraft style game](https://github.com/NckHmml/ParadoxCraft)
+- [A Minecraft-style game](https://github.com/NckHmml/ParadoxCraft)
 - [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/)
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
 - [Xenko Live Editor](https://github.com/treplogle/XenkoLiveEditor)
@@ -176,8 +176,8 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 - [StrideWireframeShader: single pass wireframe shader for stride](https://github.com/jeske/StrideWireframeShader)
 - [Triplanar shader](https://github.com/herocrab/StrideTriplanarShader)
 - [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
-- [Shaders from VVVV](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders)
-- [More VVVV shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects)
+- [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders)
+- [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects)
   
 
 ## Visual Programming
@@ -212,7 +212,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 - [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra)
 
 
-## Embeded Stride
+## Embedded Stride
 
 - project examples
 	- [Stride in Ultralight Blazor](https://github.com/lionfire/LionFire.Stride.Ultralight)
@@ -220,6 +220,9 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 - code blobs
 	- [Stride in WPF Control](https://gist.github.com/EricEzaM/5797be1f4b28f15e9be53287a02d3d67)
 	- [Stride in avalonia Control](https://gist.github.com/westonsoftware/a3fa982397fe1817ece4a27d3cbc5a89)
+- VVVV integration
+  	- [3D rendering documentation](https://thegraybook.vvvv.org/reference/libraries/graphics-3d.html)
+  	- [Stride integration source code on GitHub](https://github.com/vvvv/VL.StandardLibs)
 	
 
 ## Made with Stride
@@ -230,6 +233,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 	- [VVVVarkle with vvvv rendered using Stride](https://github.com/BenTec3d/VVVVarkle/releases/tag/v1.0)
  	- [Virtual Desktop](https://www.vrdesktop.net/)
   	- [Flappy Bird With Source Code](https://nedreid.itch.io/flappy-bird-stride)
+	- [Large-scale interactive projects made with VVVV](https://visualprogramming.net/#Showcase)
 
 - Game Jams
 	- [Step up Made by Marian Dziubiak and Youness Kafia](https://manio143.itch.io/project-step-up)

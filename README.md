@@ -230,6 +230,7 @@ These are projects that defnitely will not work with Stride 4.x without massive 
 	- [VVVVarkle with vvvv rendered using Stride](https://github.com/BenTec3d/VVVVarkle/releases/tag/v1.0)
  	- [Virtual Desktop](https://www.vrdesktop.net/)
   	- [Flappy Bird With Source Code](https://nedreid.itch.io/flappy-bird-stride)
+	- [Large-scale interactive media projects made with vvvv](https://visualprogramming.net/#Showcase)
 
 - Game Jams
 	- [Step up Made by Marian Dziubiak and Youness Kafia](https://manio143.itch.io/project-step-up)

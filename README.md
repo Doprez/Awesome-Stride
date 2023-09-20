@@ -202,6 +202,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 - [GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore)
 - [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote)
+- [Lite Entity System](https://github.com/RevenantX/LiteEntitySystem)
 - [Stride.Networking.Simple: A simple async event based lib for Stride](https://github.com/manio143/Stride.Networking.Simple)
   
 

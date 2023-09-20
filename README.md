@@ -73,6 +73,11 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Tweening library](https://github.com/JoshFlash/ZenTween)
 - [Tessellation](https://github.com/johang88/Stride-Tessellation)
 - [Xenko/Stride byte-sized project examples](https://github.com/profan/XenkoByteSized)
+	- [Prodedural Meshes](https://github.com/profan/XenkoByteSized/blob/master/XenkoByteSized/ProceduralMesh/TetrahedronMesh.cs)
+ 	- [SplitScreen](https://github.com/profan/XenkoByteSized#xenkobytesizedsplitscreen)
+  	- [Trigger Example](https://github.com/profan/XenkoByteSized#xenkobytesizedtriggerscene---doorscript)
+  	- [Vehicle Script](https://github.com/profan/XenkoByteSized#xenkobytesizedvehiclescene---vehiclescript)
+  	- [Multi-Mesh Shader](https://github.com/profan/XenkoByteSized/blob/master/XenkoByteSized/ProceduralMesh/CombinedMeshes.cs)
 
 ### Very old projects
 These are projects that definitely will not work with Stride 4.x without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.

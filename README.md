@@ -59,7 +59,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 	- [UI Navigation](https://github.com/Basewq/XenkoProofOfConcepts/tree/master/UINavigationExample)
 - [Physics constraints demo](https://github.com/manio143/StrideConstraintsDemo)
 - [Quake 3 movement for Stride3D](https://github.com/Redhacker1/Q3MovementStride)
-- [Running Stride headless client/server](https://github.com/xen2/Xenko.ClientServerSample)
+- [Running Stride headless client/server](https://github.com/Ethereal77/Stride.ClientServerSample)
 - [Simple water](https://github.com/TomGroner/XenkoFlowingWater)
 - [Simple water 2](https://github.com/johang88/StrideSimpleWater)
 - [Source generation](https://github.com/johang88/StrideSourceGeneratorTest)

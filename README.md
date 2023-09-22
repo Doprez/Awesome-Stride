@@ -16,6 +16,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 	- [Svelto Turret example](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
 - Repositories
  	- [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples)
+  	- [Using Entity Processors for Scene Editor Plugins](https://github.com/Doprez/lod-example)
+  	- [Path Finding With Entity Processors](https://github.com/Doprez/stride-pathfinding-demo)
     
 
 ## Game Examples

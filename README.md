@@ -208,6 +208,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Networking
 
+- [ET-Stride: A networking framework based on Stride and ET](https://github.com/ly3027929699/ET-Stride)
 - [GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine](https://github.com/defraswiew/GalaxyCore)
 - [Regulus.Remote: A simple C# network library.](https://github.com/jiowchern/Regulus.Remote)
 - [Lite Entity System](https://github.com/RevenantX/LiteEntitySystem)

@@ -32,7 +32,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 
 ## Example Projects
 
-- [Bepu chain physics](https://github.com/Nicogo1705/BepuPhysicIntegrationTest/tree/master)
+- [Bepu physics integration](https://github.com/Nicogo1705/BepuPhysicIntegrationTest/tree/master)
 - [Camera controller](https://github.com/herocrab/StrideCameraController)
 - [Create a custom data asset](https://github.com/manio143/StrideCustomAsset)
 - [Creating a procedural model](https://github.com/tebjan/StrideProceduralModel)

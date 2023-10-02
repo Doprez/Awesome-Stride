@@ -250,6 +250,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 	- [Step up Made by Marian Dziubiak and Youness Kafia](https://manio143.itch.io/project-step-up)
 	- [Stopping the Rogue by manio](https://manio143.itch.io/stopping-the-rogue)
 	- [Once Upon a LAN by Jarmo](https://jarmo.itch.io/once-upon-a-lan)
+ 	- [Dozer Dash](https://ldjam.com/events/ludum-dare/54/$374737) - made with a code only approach [plus repo](https://github.com/Schossi/LD54/tree/main)
  
  - Projects
  	- [Astroids](https://github.com/mmujic2/StrideAsteroids)

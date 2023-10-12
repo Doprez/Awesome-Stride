@@ -187,6 +187,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 - [UnrealMotion: Motion blur for stride](https://github.com/ykafia/UnrealMotion)
 - [Image processing shaders from VVVV community](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders)
 - [VVVV core shaders](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects)
+- [SDSL Overview from Tebjan](https://hackmd.io/@vN9HDo5XQAGVCM_epmoJBA/S1LxeorWT)
   
 
 ## Visual Programming

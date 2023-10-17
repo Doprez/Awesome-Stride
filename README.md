@@ -74,6 +74,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stride3D examples in .NET 5 using C# 9.0 or .NET 6 using C# 10](https://github.com/VaclavElias/Stride3DTutorials)
 - [Tweening library](https://github.com/JoshFlash/ZenTween)
 - [Tessellation](https://github.com/johang88/Stride-Tessellation)
+- [Workshop creating a game with Stride](https://github.com/manio143/StrideIntroWorkshopNode20/tree/main)
 - [Xenko/Stride byte-sized project examples](https://github.com/profan/XenkoByteSized)
 	- [Prodedural Meshes](https://github.com/profan/XenkoByteSized/blob/master/XenkoByteSized/ProceduralMesh/TetrahedronMesh.cs)
  	- [SplitScreen](https://github.com/profan/XenkoByteSized#xenkobytesizedsplitscreen)

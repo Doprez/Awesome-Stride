@@ -18,6 +18,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
  	- [Svelto ECS mini examples](https://github.com/sebas77/Svelto.MiniExamples)
   	- [Using Entity Processors for Scene Editor Plugins](https://github.com/Doprez/lod-example)
   	- [Path Finding With Entity Processors](https://github.com/Doprez/stride-pathfinding-demo)
+  	- [Arch ECS intigrated into Stride](https://github.com/Doprez/stride-arch-ecs#add-arch-components-in-strides-editor)
     
 
 ## Game Examples

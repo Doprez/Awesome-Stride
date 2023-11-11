@@ -137,6 +137,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 - [Smooth follow](https://gist.github.com/Doprez/e146f8d30b7e9cea05de138d4e3a30f0)
 - [Smooth Rotation](https://gist.github.com/Doprez/5bd571341b075c5cf257d7265c374807)
 - [Xenko/Stride 3rd person controller](https://pastebin.com/4nFbabkZ)
+- [Get Vertices and Indices from a mesh](https://gist.github.com/Doprez/3974122afee1cbddae289e16057026f3)
   
 
 ## Engine Documentation

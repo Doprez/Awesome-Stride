@@ -70,6 +70,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Stride Instancing Example](https://github.com/tebjan/StrideTransformationInstancing)
 - [Stride Game Engine Extension for code only approach](https://github.com/VaclavElias/stride-code-only)
 - [Stride Outline Renderer](https://github.com/SoulRider/StrideOutlineRenderer)
+- [StrideVoxelScape](https://github.com/Jarb2104/StrideVoxelScape_v0.1)
 - [Super Character Controller](https://github.com/corthax/SuperCharacterController)
 - [Splitscreen example](https://github.com/spasarto/Stride3dSplitScreen)
 - [Stride3D examples in .NET 5 using C# 9.0 or .NET 6 using C# 10](https://github.com/VaclavElias/Stride3DTutorials)
@@ -87,7 +88,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 These are projects that definitely will not work with Stride 4.x without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.
 
 - [A Minecraft-style game](https://github.com/NckHmml/ParadoxCraft)
-- [Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/) - [new repo](https://github.com/Doprez/stride-voxelscape/tree/main)
+- [Xenko Voxel Scape](https://bitbucket.org/LyingDwarf/xenko-voxelscape/src/master/) - ~[new repo](https://github.com/Doprez/stride-voxelscape/tree/main)~
+- [*NEW* Stride Voxel Scape](https://github.com/Jarb2104/StrideVoxelScape_v0.1)
 	- [Video demo](https://www.youtube.com/watch?v=whJOtux2DrQ)
 - [Xenko Live Editor](https://github.com/treplogle/XenkoLiveEditor)
 	- [New Stride version](https://github.com/tebjan/StrideLiveEditor)
@@ -208,6 +210,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 - [Xenko/Stride marching cubes terrain](https://github.com/SilentCLD/XenkoMCTerrain)
 - [Xenko/Stride heightmap terrain #2](https://github.com/SilentCLD/XenkoHMTerrain)
 - [Another Terrain from Johang](https://github.com/johang88/StrideTerrain)
+- [Stride Voxel Scape](https://github.com/Jarb2104/StrideVoxelScape_v0.1)
   
 
 ## Networking

@@ -180,7 +180,6 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 ## Shaders
 
-- [Awesome shaders by ykafia](https://github.com/ykafia/Stride-Awesome-Shaders/tree/master)
 - [Generate simple mesh and marching cube from computeShader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader)
 - [Glass shader](https://github.com/stride3d/stride/discussions/1011)
 - [Marching Cubes ComputeShader](https://github.com/Nicogo1705/Stride-Generate-Simple-Mesh-And-Marching-Cube-From-ComputeShader)

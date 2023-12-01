@@ -102,6 +102,8 @@ These are projects that definitely will not work with Stride 4.x without massive
 	- [Basic Platformer Movement Tutorial](https://www.youtube.com/watch?v=eTMT5up1AlY&t=2s)
 	- [SpriteSheet animation tutorial](https://www.youtube.com/watch?v=ZBhUfNkvZhQ)
 	- [2D camera system](https://www.youtube.com/watch?v=eaTpWpxKajE)
+- [Emanuel-DIY](https://www.youtube.com/@emanuelfaisca1783)
+	- [2D Game tutorial](https://www.youtube.com/watch?v=n_PAoBGi2Og)
 - [Stride - YouTube](https://www.youtube.com/c/Stride3d)
 	- [Stride Beginner Tutorials](https://www.youtube.com/watch?v=Z2kUQhSmdr0&list=PLRZx2y7uC8mNySUMfOQf-TLNVnnHkLfPi)
 	- [Stride Intermediate Tutorials](https://www.youtube.com/watch?v=-IXw64hZAqg&list=PLRZx2y7uC8mOE6_L0ZiFxNBE7HmzU2dP7)

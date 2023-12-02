@@ -39,6 +39,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Creating a procedural model](https://github.com/tebjan/StrideProceduralModel)
 - [Custom UI example using MyraUI ](https://github.com/Doprez/stride-ui-alternate-example)
 - [Control - Input Manager](https://github.com/rsptim1/Ctrl)
+- [Custom Editor Gizmos](https://github.com/gearsin/Stride.Demo.Gizmo/tree/master)
 - [Demos with a focus on Code-Only approach](https://github.com/najak3d/Stride3D_Demos)
 - [Easier input binding configuration](https://github.com/lparkermg/LPSoft.Stride.InputExtensions)
 - [Fog Of War](https://github.com/herocrab/StrideFogOfWarPlus)

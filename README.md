@@ -42,6 +42,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
 - [Custom Editor Gizmos](https://github.com/gearsin/Stride.Demo.Gizmo/tree/master)
 - [Demos with a focus on Code-Only approach](https://github.com/najak3d/Stride3D_Demos)
 - [Debug shape render](https://github.com/profan/XenkoDebugRendering/tree/master/DebugRendering)
+	- [Updated Stride version](https://github.com/Doprez/Stride.DebugShapes)
 - [Easier input binding configuration](https://github.com/lparkermg/LPSoft.Stride.InputExtensions)
 - [Fog Of War](https://github.com/herocrab/StrideFogOfWarPlus)
 - [Import files into Stride3D](https://github.com/VirtualBrightPlayz/AutoImportStride)

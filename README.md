@@ -270,6 +270,8 @@ These are projects that definitely will not work with Stride 4.x without massive
  - Projects
  	- [Astroids](https://github.com/mmujic2/StrideAsteroids)
 
+  [SteamDB results](https://steamdb.info/tech/Engine/Stride/)
+
 ## Extension Libraries
 
 - [Bepu Physics in Stride](https://www.nuget.org/packages/Stride.BepuPhysics)

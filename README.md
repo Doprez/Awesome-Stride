@@ -130,6 +130,8 @@ These are projects that definitely will not work with Stride 4.x without massive
 	- [VL: 5. The Stride Rendering Pipeline](https://www.youtube.com/watch?v=4rDgVe1F0gg)
 	- [VL: 6. Spreads & Iteration](https://www.youtube.com/watch?v=3u3QOd4UyWM)
 	- [VL: 7. Controlling Patches](https://www.youtube.com/watch?v=LOX32diUgOQ)
+
+ - [Emanuel-DIY Follow Along Project](https://github.com/EmanuelGF/GhostHunterGame)
   
 
 ## Code blobs

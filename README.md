@@ -183,6 +183,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 
 - Libraries
   - [Doprez.Stride.AI: FSM and GOAP library for Stride](https://github.com/Doprez/Doprez.Stride.AI)
+  - [Bepu Navigation](https://github.com/Nicogo1705/Stride.BepuPhysics/tree/master/Stride.BepuPhysics.Navigation) using [DotRecast](https://github.com/ikpil/DotRecast) 
 - Examples
   - [Stride-npc: A basic example of a Finite State Machine](https://github.com/Doprez/stride-npc)
   - [Stride-goap: a very simple implementation of GOAP using MountainGoap](https://github.com/Doprez/stride-goap)

@@ -29,6 +29,8 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   - [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)
   - [Xenko TPS example](https://github.com/stride3d/Starbreach)
   - [Zerobot](https://github.com/joaovsq/Zerobot)
+  - [Roller Ghoster](https://github.com/Aggror/RollerGhosterOpen)
+  - [Terracota](https://github.com/YerkoAndrei/Terracota)
     
 
 ## Example Projects

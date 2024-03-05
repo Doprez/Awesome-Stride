@@ -265,6 +265,7 @@ These are projects that definitely will not work with Stride 4.x without massive
  	- [Virtual Desktop](https://www.vrdesktop.net/)
   	- [Flappy Bird With Source Code](https://nedreid.itch.io/flappy-bird-stride)
 	- [Large-scale interactive projects made with VVVV](https://visualprogramming.net/#Showcase)
+ 	- [Terracota](https://yerkoandrei.itch.io/terracota)
 
 - Game Jams
 	- [Step up Made by Marian Dziubiak and Youness Kafia](https://manio143.itch.io/project-step-up)

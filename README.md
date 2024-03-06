@@ -19,6 +19,7 @@ WARNING I made this in a bit of a rush. I have not personally used all of these 
   	- [Using Entity Processors for Scene Editor Plugins](https://github.com/Doprez/lod-example)
   	- [Pathfinding With Entity Processors](https://github.com/Doprez/stride-pathfinding-demo)
   	- [Arch ECS integrated into Stride](https://github.com/Doprez/stride-arch-ecs#add-arch-components-in-strides-editor)
+  	- [Fennecs demo](https://github.com/thygrrr/fennecs/tree/main/demos/stride)
     
 
 ## Game Examples
@@ -179,6 +180,8 @@ These are projects that definitely will not work with Stride 4.x without massive
 	- [Networking from Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
 - Vimeo
 	- [Data Sculpture for Herrenknecht rendered with Stride](https://vimeo.com/797315059)
+ - Other
+ 	- [Fennecs Cube demo](https://fennecs.tech/video/fennecs-stride-democubes.mp4)
     
 
 ## AI

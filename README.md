@@ -245,6 +245,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 - [Stridelonia: Stride plugin which allows running Avalonia on Stride](https://github.com/TheKeyblader/Stridelonia)
 - [StrideCommunity.ImGuiDebug: Bare-bone implementation of ImGui and a couple of debug tools for Stride](https://github.com/Eideren/StrideCommunity.ImGuiDebug)
 - [Myra: UI Library for MonoGame, FNA and Stride](https://github.com/rds1983/Myra)
+- [AvaStride: Avalonia 11 in Stride](https://github.com/jhimes144/AvaStride)
 
 
 ## Embedded Stride

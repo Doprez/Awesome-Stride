@@ -290,6 +290,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 - [Doprez.Stride: A bundle of Stride related libraries and extensions](https://github.com/Doprez/Doprez.Stride) (use Stride community toolkit instead)
 - [Stride community toolkit](https://github.com/VaclavElias/stride-community-toolkit)
 - [StrideToolkit: Stride Toolkit is a .NET Standard library for use with the Stride Game Engine.](https://github.com/dfkeenan/StrideToolkit)
+- [Doprez.Stride.Zones: Zone editing in editor](https://github.com/Doprez/Stride.Zones/tree/main)
 
 ## Misc
 

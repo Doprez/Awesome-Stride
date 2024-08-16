@@ -263,6 +263,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 	
 
 ## Made with Stride
+
 - Releases
 	- [Children of the galaxy](https://www.emptykeys.com/games/children-of-the-galaxy/)
 	- [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2/)
@@ -299,3 +300,7 @@ These are projects that definitely will not work with Stride 4.x without massive
 - [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)
 - [Run Stride Gamestudio with only Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
 - [Stride Live Editor for changing entity data at runtime](https://github.com/tebjan/StrideLiveEditor)
+
+## Extra Resources
+
+- [Awesome VL](https://github.com/chkworks/awesome-vl) used for VVVV a visual scripting framework usable with Stride

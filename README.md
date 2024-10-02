@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This info has been migrated to the new Stride community resources page! for the new official resource list please go to https://doc.stride3d.net/latest/en/community-resources/index.html
+
 # Awesome Stride
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
